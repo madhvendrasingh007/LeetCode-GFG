@@ -19,4 +19,9 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0792-binary-search](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0792-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
