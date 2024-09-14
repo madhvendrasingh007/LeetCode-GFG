@@ -13,5 +13,10 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0908-middle-of-the-linked-list](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0908-middle-of-the-linked-list) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
