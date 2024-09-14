@@ -14,11 +14,13 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0075-sort-colors) |
 | [0908-middle-of-the-linked-list](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0908-middle-of-the-linked-list) |
 ## Array
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0792-binary-search](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0792-binary-search) |
 ## Binary Search
@@ -29,4 +31,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
