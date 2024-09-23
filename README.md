@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0050-powx-n) |
 ## Hash Table
 |  |
 | ------- |
