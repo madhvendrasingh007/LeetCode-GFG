@@ -36,6 +36,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0908-middle-of-the-linked-list) |
 ## Array
@@ -53,11 +54,13 @@
 | [0118-pascals-triangle](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0455-assign-cookies) |
 | [0792-binary-search](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0792-binary-search) |
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0792-binary-search) |
 ## Dynamic Programming
 |  |
@@ -114,4 +117,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0048-rotate-image) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
