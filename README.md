@@ -49,6 +49,7 @@
 | [0053-maximum-subarray](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0118-pascals-triangle) |
@@ -91,6 +92,7 @@
 | [0013-roman-to-integer](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
