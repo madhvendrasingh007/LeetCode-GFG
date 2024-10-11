@@ -96,6 +96,7 @@
 | [0048-rotate-image](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -123,6 +124,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0067-add-binary) |
 ## Matrix
 |  |
 | ------- |
@@ -130,6 +132,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0287-find-the-duplicate-number) |
 ## Counting
 |  |
@@ -139,4 +142,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
