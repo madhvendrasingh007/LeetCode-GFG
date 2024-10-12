@@ -60,6 +60,7 @@
 | [0189-rotate-array](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0792-binary-search) |
 ## Binary Search
 |  |
@@ -83,6 +84,7 @@
 | [0088-merge-sorted-array](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0628-maximum-product-of-three-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 | [0066-plus-one](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0189-rotate-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
 | ------- |
