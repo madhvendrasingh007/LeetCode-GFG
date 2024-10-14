@@ -59,6 +59,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0204-count-primes) |
 | [0287-find-the-duplicate-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0628-maximum-product-of-three-numbers) |
@@ -101,6 +102,7 @@
 | [0066-plus-one](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0204-count-primes) |
 | [0326-power-of-three](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0326-power-of-three) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
@@ -151,4 +153,12 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0067-add-binary) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
