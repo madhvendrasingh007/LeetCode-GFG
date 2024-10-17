@@ -121,6 +121,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
@@ -135,6 +136,7 @@
 | [0020-valid-parentheses](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0071-simplify-path) |
 ## Matrix
 |  |
 | ------- |
