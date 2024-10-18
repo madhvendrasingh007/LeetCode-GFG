@@ -77,6 +77,7 @@
 | [0045-jump-game-ii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0055-jump-game) |
+| [0115-distinct-subsequences](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
@@ -137,6 +138,7 @@
 | [0058-length-of-last-word](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0071-simplify-path) |
+| [0115-distinct-subsequences](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0115-distinct-subsequences) |
 ## Matrix
 |  |
 | ------- |
