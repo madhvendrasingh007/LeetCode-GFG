@@ -66,6 +66,7 @@
 | [0088-merge-sorted-array](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0130-surrounded-regions](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0204-count-primes) |
@@ -166,6 +167,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0048-rotate-image) |
+| [0130-surrounded-regions](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0130-surrounded-regions) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -206,10 +208,12 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0130-surrounded-regions) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0130-surrounded-regions) |
 ## Binary Tree
 |  |
 | ------- |
@@ -218,4 +222,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0148-sort-list) |
+## Union Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
