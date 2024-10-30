@@ -63,6 +63,7 @@
 | [0056-merge-intervals](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -142,6 +143,7 @@
 | [0020-valid-parentheses](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0402-remove-k-digits) |
@@ -183,6 +185,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0402-remove-k-digits) |
 ## Simulation
 |  |
