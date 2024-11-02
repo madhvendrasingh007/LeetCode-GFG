@@ -27,6 +27,7 @@
 | [0143-reorder-list](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0326-power-of-three) |
 ## Two Pointers
@@ -125,6 +126,7 @@
 | [0171-excel-sheet-column-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0326-power-of-three) |
@@ -178,6 +180,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0338-counting-bits) |
