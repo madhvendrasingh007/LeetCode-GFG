@@ -70,6 +70,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0130-surrounded-regions) |
+| [0149-max-points-on-a-line](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0204-count-primes) |
@@ -126,6 +127,7 @@
 | [0066-plus-one](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0149-max-points-on-a-line) |
 | [0171-excel-sheet-column-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0204-count-primes) |
@@ -142,6 +144,7 @@
 | [0013-roman-to-integer](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0142-linked-list-cycle-ii) |
+| [0149-max-points-on-a-line](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0219-contains-duplicate-ii) |
@@ -252,4 +255,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0070-climbing-stairs) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
