@@ -136,6 +136,7 @@
 | [0292-nim-game](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0343-integer-break) |
+| [0412-fizz-buzz](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
@@ -178,6 +179,7 @@
 | [0115-distinct-subsequences](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0115-distinct-subsequences) |
 | [0171-excel-sheet-column-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0171-excel-sheet-column-number) |
 | [0402-remove-k-digits](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0402-remove-k-digits) |
+| [0412-fizz-buzz](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0412-fizz-buzz) |
 ## Matrix
 |  |
 | ------- |
@@ -205,6 +207,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0412-fizz-buzz) |
 ## Enumeration
 |  |
 | ------- |
