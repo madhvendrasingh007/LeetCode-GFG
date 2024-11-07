@@ -77,6 +77,7 @@
 | [0219-contains-duplicate-ii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0287-find-the-duplicate-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0380-insert-delete-getrandom-o1) |
 | [0455-assign-cookies](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0792-binary-search) |
@@ -136,6 +137,7 @@
 | [0292-nim-game](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0343-integer-break) |
+| [0380-insert-delete-getrandom-o1](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
@@ -150,6 +152,7 @@
 | [0169-majority-element](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0380-insert-delete-getrandom-o1) |
 ## Stack
 |  |
 | ------- |
@@ -262,4 +265,12 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0149-max-points-on-a-line) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
