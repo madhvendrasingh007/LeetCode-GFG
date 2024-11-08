@@ -131,6 +131,7 @@
 | [0070-climbing-stairs](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0149-max-points-on-a-line) |
+| [0166-fraction-to-recurring-decimal](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0204-count-primes) |
@@ -151,6 +152,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0268-missing-number) |
@@ -182,6 +184,7 @@
 | [0067-add-binary](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0115-distinct-subsequences) |
+| [0166-fraction-to-recurring-decimal](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0171-excel-sheet-column-number) |
 | [0402-remove-k-digits](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0412-fizz-buzz) |
