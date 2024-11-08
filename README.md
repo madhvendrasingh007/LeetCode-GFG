@@ -95,6 +95,7 @@
 | [0053-maximum-subarray](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -128,6 +129,7 @@
 | [0066-plus-one](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0149-max-points-on-a-line) |
 | [0171-excel-sheet-column-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0189-rotate-array) |
@@ -226,6 +228,7 @@
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0096-unique-binary-search-trees) |
 | [0112-path-sum](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
@@ -240,6 +243,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0096-unique-binary-search-trees) |
 | [0112-path-sum](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0112-path-sum) |
 ## Merge Sort
 |  |
@@ -273,4 +277,8 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0380-insert-delete-getrandom-o1) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
