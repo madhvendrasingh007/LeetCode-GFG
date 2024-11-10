@@ -71,6 +71,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0130-surrounded-regions) |
 | [0149-max-points-on-a-line](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0204-count-primes) |
@@ -131,6 +132,7 @@
 | [0070-climbing-stairs](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0189-rotate-array) |
@@ -165,6 +167,7 @@
 | [0071-simplify-path](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0402-remove-k-digits) |
 ## Greedy
