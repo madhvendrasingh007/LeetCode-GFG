@@ -78,6 +78,7 @@
 | [0219-contains-duplicate-ii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0287-find-the-duplicate-number) |
+| [0330-patching-array](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0330-patching-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0380-insert-delete-getrandom-o1) |
 | [0455-assign-cookies](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0628-maximum-product-of-three-numbers) |
@@ -176,6 +177,7 @@
 | [0045-jump-game-ii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0330-patching-array](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0330-patching-array) |
 | [0402-remove-k-digits](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0455-assign-cookies) |
 ## String
