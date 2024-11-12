@@ -56,6 +56,7 @@
 | [0001-two-sum](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0048-rotate-image) |
@@ -86,6 +87,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0792-binary-search) |
