@@ -133,6 +133,7 @@
 | [0066-plus-one](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -205,6 +206,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0287-find-the-duplicate-number) |
@@ -292,4 +294,8 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0096-unique-binary-search-trees) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
