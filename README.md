@@ -60,6 +60,7 @@
 | [0042-trapping-rain-water](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0056-merge-intervals) |
@@ -111,6 +112,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0088-merge-sorted-array) |
@@ -158,6 +160,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0149-max-points-on-a-line) |
@@ -194,6 +197,7 @@
 | [0008-string-to-integer-atoi](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0071-simplify-path) |
