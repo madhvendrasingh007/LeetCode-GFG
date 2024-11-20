@@ -62,6 +62,7 @@
 | [0048-rotate-image](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0066-plus-one) |
@@ -211,6 +212,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0130-surrounded-regions) |
 ## Bit Manipulation
 |  |
@@ -234,6 +236,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0412-fizz-buzz) |
 ## Enumeration
