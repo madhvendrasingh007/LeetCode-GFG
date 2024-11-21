@@ -29,6 +29,7 @@
 | [0206-reverse-linked-list](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0326-power-of-three) |
 ## Two Pointers
 |  |
@@ -107,6 +108,7 @@
 | [0118-pascals-triangle](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [0337-house-robber-iii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0343-integer-break) |
@@ -147,6 +149,7 @@
 | [0189-rotate-array](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0326-power-of-three) |
@@ -205,6 +208,7 @@
 | [0115-distinct-subsequences](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0115-distinct-subsequences) |
 | [0166-fraction-to-recurring-decimal](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0171-excel-sheet-column-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [0402-remove-k-digits](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0412-fizz-buzz) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -294,6 +298,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 ## Geometry
 |  |
 | ------- |
