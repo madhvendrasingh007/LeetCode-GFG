@@ -28,6 +28,7 @@
 | [0203-remove-linked-list-elements](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0326-power-of-three) |
@@ -108,6 +109,7 @@
 | [0118-pascals-triangle](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0233-number-of-digit-one](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [0337-house-robber-iii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0338-counting-bits) |
@@ -151,6 +153,7 @@
 | [0189-rotate-array](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0292-nim-game) |
