@@ -152,6 +152,7 @@
 | [0171-excel-sheet-column-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
@@ -312,6 +313,7 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0223-rectangle-area) |
 | [0335-self-crossing](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0335-self-crossing) |
 ## Design
 |  |
