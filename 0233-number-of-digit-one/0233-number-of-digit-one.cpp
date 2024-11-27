@@ -1,37 +1,24 @@
 class Solution {
 public:
-    int getlen(int n){
-        if(n == 0)
-        return 0;
-        int len = 0;
-
-        while(n > 0){
-            n = n/10 ;
-            len++;
+    int dp[21][3][21];
+    int solve(int i ,int tight , string &n,int de  ){
+        if(i== n.size()){
+        return de ;     
         }
-        return len;
+        if(dp[i][tight][de] != -1){
+            return dp[i][tight][de];
+        }
+        int limit = tight?n[i] -'0':9;
+        int ans  = 0 ;
+        for(int d = 0; d<= limit ; d++){
+          ans+= solve(i+ 1, tight &(limit ==d), n , de+(d==1));
+        }
+        return  dp[i][tight][de] = ans;
     }
     int countDigitOne(int n) {
-        if(n <= 0)
-        return 0;
-
-        if(n < 10)
-        return 1;
-
-        int len = getlen(n);
-        int base = pow(10, len-1);
-
-        int firstdigit = n/base;
-        int rem = n%base;
-        int oneInBase = 0;
-
-        if(firstdigit == 1){
-            oneInBase = n-base + 1;
-        }
-        else{
-            oneInBase = base;
-        }
-
-        return oneInBase + firstdigit*countDigitOne(base-1) + countDigitOne(rem);
+     string s = to_string(n);
+     memset(dp , -1 , sizeof(dp));
+    
+     return solve( 0 , 1,  s,0);
     }
 };
