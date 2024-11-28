@@ -111,6 +111,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0233-number-of-digit-one](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
+| [0279-perfect-squares](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0279-perfect-squares) |
 | [0337-house-robber-iii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0343-integer-break) |
@@ -158,6 +159,7 @@
 | [0233-number-of-digit-one](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0335-self-crossing) |
@@ -283,6 +285,7 @@
 | ------- |
 | [0112-path-sum](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0130-surrounded-regions) |
+| [0279-perfect-squares](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0279-perfect-squares) |
 ## Binary Tree
 |  |
 | ------- |
