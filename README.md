@@ -116,6 +116,7 @@
 | [0337-house-robber-iii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0343-integer-break) |
+| [0458-poor-pigs](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0458-poor-pigs) |
 ## Sorting
 |  |
 | ------- |
@@ -169,6 +170,7 @@
 | [0390-elimination-game](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0390-elimination-game) |
 | [0412-fizz-buzz](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0412-fizz-buzz) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0458-poor-pigs](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0458-poor-pigs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
@@ -337,4 +339,8 @@
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0089-gray-code) |
+## Combinatorics
+|  |
+| ------- |
+| [0458-poor-pigs](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0458-poor-pigs) |
 <!---LeetCode Topics End-->
