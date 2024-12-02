@@ -71,6 +71,7 @@
 | [0056-merge-intervals](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0118-pascals-triangle) |
@@ -222,6 +223,7 @@
 | [0058-length-of-last-word](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0115-distinct-subsequences) |
 | [0166-fraction-to-recurring-decimal](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0171-excel-sheet-column-number) |
@@ -234,6 +236,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0130-surrounded-regions) |
 ## Bit Manipulation
 |  |
@@ -340,6 +343,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0089-gray-code) |
 ## Combinatorics
 |  |
