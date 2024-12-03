@@ -90,6 +90,7 @@
 | [0335-self-crossing](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0335-self-crossing) |
 | [0380-insert-delete-getrandom-o1](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0380-insert-delete-getrandom-o1) |
 | [0455-assign-cookies](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0455-assign-cookies) |
+| [0477-total-hamming-distance](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0477-total-hamming-distance) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0792-binary-search) |
 ## Binary Search
@@ -173,6 +174,7 @@
 | [0412-fizz-buzz](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0412-fizz-buzz) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0458-poor-pigs](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0458-poor-pigs) |
+| [0477-total-hamming-distance](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0477-total-hamming-distance) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
@@ -247,6 +249,7 @@
 | [0268-missing-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0338-counting-bits) |
+| [0477-total-hamming-distance](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0477-total-hamming-distance) |
 ## Counting
 |  |
 | ------- |
