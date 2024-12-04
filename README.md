@@ -175,6 +175,7 @@
 | [0423-reconstruct-original-digits-from-english](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0458-poor-pigs](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0458-poor-pigs) |
 | [0477-total-hamming-distance](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0477-total-hamming-distance) |
+| [0593-valid-square](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
@@ -330,6 +331,7 @@
 | [0149-max-points-on-a-line](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0223-rectangle-area) |
 | [0335-self-crossing](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0335-self-crossing) |
+| [0593-valid-square](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0593-valid-square) |
 ## Design
 |  |
 | ------- |
