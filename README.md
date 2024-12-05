@@ -91,6 +91,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0380-insert-delete-getrandom-o1) |
 | [0455-assign-cookies](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0455-assign-cookies) |
 | [0477-total-hamming-distance](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0477-total-hamming-distance) |
+| [0553-optimal-division](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0553-optimal-division) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0792-binary-search) |
 ## Binary Search
@@ -120,6 +121,7 @@
 | [0338-counting-bits](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0343-integer-break) |
 | [0458-poor-pigs](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0458-poor-pigs) |
+| [0553-optimal-division](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0553-optimal-division) |
 ## Sorting
 |  |
 | ------- |
@@ -175,6 +177,7 @@
 | [0423-reconstruct-original-digits-from-english](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0458-poor-pigs](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0458-poor-pigs) |
 | [0477-total-hamming-distance](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0477-total-hamming-distance) |
+| [0553-optimal-division](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0553-optimal-division) |
 | [0593-valid-square](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
