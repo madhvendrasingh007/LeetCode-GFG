@@ -94,6 +94,7 @@
 | [0553-optimal-division](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0553-optimal-division) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0792-binary-search) |
+| [0912-random-pick-with-weight](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0912-random-pick-with-weight) |
 ## Binary Search
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | [0268-missing-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0792-binary-search) |
+| [0912-random-pick-with-weight](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0912-random-pick-with-weight) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -180,6 +182,7 @@
 | [0553-optimal-division](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0553-optimal-division) |
 | [0593-valid-square](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-random-pick-with-weight](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0912-random-pick-with-weight) |
 ## Hash Table
 |  |
 | ------- |
@@ -343,6 +346,7 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0380-insert-delete-getrandom-o1) |
+| [0912-random-pick-with-weight](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0912-random-pick-with-weight) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -357,4 +361,8 @@
 |  |
 | ------- |
 | [0458-poor-pigs](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0458-poor-pigs) |
+## Prefix Sum
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0912-random-pick-with-weight) |
 <!---LeetCode Topics End-->
