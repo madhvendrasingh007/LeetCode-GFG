@@ -213,6 +213,7 @@
 | [0143-reorder-list](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0402-remove-k-digits) |
 ## Greedy
@@ -348,6 +349,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -380,4 +382,5 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
