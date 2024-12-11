@@ -93,6 +93,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0380-insert-delete-getrandom-o1) |
 | [0455-assign-cookies](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0455-assign-cookies) |
 | [0477-total-hamming-distance](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0477-total-hamming-distance) |
+| [0496-next-greater-element-i](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0496-next-greater-element-i) |
 | [0553-optimal-division](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0553-optimal-division) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0792-binary-search) |
@@ -203,6 +204,7 @@
 | [0336-palindrome-pairs](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0336-palindrome-pairs) |
 | [0380-insert-delete-getrandom-o1](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0380-insert-delete-getrandom-o1) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0496-next-greater-element-i](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
 | ------- |
@@ -217,6 +219,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0496-next-greater-element-i) |
 ## Greedy
 |  |
 | ------- |
@@ -275,6 +278,7 @@
 | [0042-trapping-rain-water](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0496-next-greater-element-i) |
 ## Simulation
 |  |
 | ------- |
