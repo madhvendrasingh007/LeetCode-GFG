@@ -97,6 +97,7 @@
 | [0503-next-greater-element-ii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0503-next-greater-element-ii) |
 | [0553-optimal-division](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0553-optimal-division) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0628-maximum-product-of-three-numbers) |
+| [0735-asteroid-collision](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0792-binary-search) |
 | [0912-random-pick-with-weight](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0912-random-pick-with-weight) |
 ## Binary Search
@@ -222,6 +223,7 @@
 | [0402-remove-k-digits](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0735-asteroid-collision) |
 ## Greedy
 |  |
 | ------- |
@@ -289,6 +291,7 @@
 | [0054-spiral-matrix](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0412-fizz-buzz) |
+| [0735-asteroid-collision](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0735-asteroid-collision) |
 ## Enumeration
 |  |
 | ------- |
