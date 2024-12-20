@@ -121,6 +121,7 @@
 | [0053-maximum-subarray](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0118-pascals-triangle) |
@@ -254,6 +255,7 @@
 | [0058-length-of-last-word](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0115-distinct-subsequences) |
 | [0166-fraction-to-recurring-decimal](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0166-fraction-to-recurring-decimal) |
