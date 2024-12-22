@@ -106,6 +106,7 @@
 | [0792-binary-search](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0792-binary-search) |
 | [0912-random-pick-with-weight](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0912-random-pick-with-weight) |
 | [0943-sum-of-subarray-minimums](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/2227-sum-of-subarray-ranges) |
 ## Binary Search
 |  |
 | ------- |
@@ -235,6 +236,7 @@
 | [0503-next-greater-element-ii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/2227-sum-of-subarray-ranges) |
 ## Greedy
 |  |
 | ------- |
@@ -301,6 +303,7 @@
 | [0496-next-greater-element-i](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/2227-sum-of-subarray-ranges) |
 ## Simulation
 |  |
 | ------- |
