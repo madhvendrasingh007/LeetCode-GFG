@@ -226,6 +226,7 @@
 | [0042-trapping-rain-water](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -332,6 +333,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0096-unique-binary-search-trees) |
 | [0112-path-sum](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0144-binary-tree-preorder-traversal) |
@@ -339,6 +341,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0144-binary-tree-preorder-traversal) |
@@ -352,6 +355,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0096-unique-binary-search-trees) |
 | [0112-path-sum](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0144-binary-tree-preorder-traversal) |
