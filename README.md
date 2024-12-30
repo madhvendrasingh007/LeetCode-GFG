@@ -130,6 +130,7 @@
 | [0118-pascals-triangle](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0233-number-of-digit-one](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0279-perfect-squares) |
@@ -340,6 +341,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0145-binary-tree-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0337-house-robber-iii) |
@@ -351,6 +353,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0145-binary-tree-postorder-traversal) |
@@ -373,6 +376,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0145-binary-tree-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0337-house-robber-iii) |
