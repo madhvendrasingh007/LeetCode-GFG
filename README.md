@@ -152,6 +152,7 @@
 | [0268-missing-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0628-maximum-product-of-three-numbers) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -220,6 +221,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0380-insert-delete-getrandom-o1) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0496-next-greater-element-i](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0496-next-greater-element-i) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Stack
 |  |
 | ------- |
@@ -348,6 +350,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0145-binary-tree-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -362,6 +365,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0145-binary-tree-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -372,6 +376,7 @@
 | [0112-path-sum](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0130-surrounded-regions) |
 | [0279-perfect-squares](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0279-perfect-squares) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -388,6 +393,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0145-binary-tree-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Merge Sort
 |  |
 | ------- |
