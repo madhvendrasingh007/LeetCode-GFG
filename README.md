@@ -348,6 +348,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0199-binary-tree-right-side-view) |
 | [0337-house-robber-iii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -363,6 +364,7 @@
 | [0130-surrounded-regions](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0199-binary-tree-right-side-view) |
 | [0337-house-robber-iii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -375,6 +377,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0130-surrounded-regions) |
+| [0199-binary-tree-right-side-view](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0279-perfect-squares) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -391,6 +394,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0199-binary-tree-right-side-view) |
 | [0337-house-robber-iii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
