@@ -102,6 +102,7 @@
 | [0496-next-greater-element-i](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0503-next-greater-element-ii) |
 | [0553-optimal-division](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0553-optimal-division) |
+| [0621-task-scheduler](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0792-binary-search) |
@@ -152,6 +153,7 @@
 | [0169-majority-element](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0628-maximum-product-of-three-numbers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Divide and Conquer
@@ -222,6 +224,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0380-insert-delete-getrandom-o1) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0496-next-greater-element-i](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0621-task-scheduler) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Stack
 |  |
@@ -256,6 +259,7 @@
 | [0330-patching-array](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0330-patching-array) |
 | [0402-remove-k-digits](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0621-task-scheduler) |
 ## String
 |  |
 | ------- |
@@ -304,6 +308,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0169-majority-element) |
+| [0621-task-scheduler](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0621-task-scheduler) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -482,6 +487,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0621-task-scheduler) |
 ## Monotonic Queue
 |  |
 | ------- |
