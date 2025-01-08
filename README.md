@@ -91,6 +91,7 @@
 | [0189-rotate-array](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0268-missing-number) |
@@ -155,6 +156,7 @@
 | [0148-sort-list](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0621-task-scheduler) |
@@ -224,6 +226,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0268-missing-number) |
 | [0336-palindrome-pairs](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0336-palindrome-pairs) |
