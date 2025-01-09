@@ -118,6 +118,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0069-sqrtx) |
+| [0222-count-complete-tree-nodes](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0792-binary-search) |
@@ -308,6 +309,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0089-gray-code) |
+| [0222-count-complete-tree-nodes](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0287-find-the-duplicate-number) |
@@ -367,6 +369,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0543-diameter-of-binary-tree) |
@@ -420,6 +423,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0543-diameter-of-binary-tree) |
