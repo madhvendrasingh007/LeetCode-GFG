@@ -85,6 +85,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0169-majority-element) |
@@ -138,6 +139,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0139-word-break) |
 | [0233-number-of-digit-one](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0279-perfect-squares) |
@@ -221,6 +223,7 @@
 | [0012-integer-to-roman](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0149-max-points-on-a-line) |
@@ -289,6 +292,7 @@
 | [0079-word-search](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0139-word-break) |
 | [0166-fraction-to-recurring-decimal](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0171-excel-sheet-column-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
@@ -448,6 +452,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 ## Geometry
 |  |
@@ -489,6 +494,7 @@
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0139-word-break) |
 | [0336-palindrome-pairs](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0336-palindrome-pairs) |
 ## Queue
 |  |
