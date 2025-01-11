@@ -233,6 +233,7 @@
 | [0217-contains-duplicate](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0290-word-pattern) |
 | [0336-palindrome-pairs](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0336-palindrome-pairs) |
 | [0380-insert-delete-getrandom-o1](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0380-insert-delete-getrandom-o1) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -296,6 +297,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0171-excel-sheet-column-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
+| [0290-word-pattern](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0290-word-pattern) |
 | [0336-palindrome-pairs](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0336-palindrome-pairs) |
 | [0345-reverse-vowels-of-a-string](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0345-reverse-vowels-of-a-string) |
 | [0402-remove-k-digits](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0402-remove-k-digits) |
