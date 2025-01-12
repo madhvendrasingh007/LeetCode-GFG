@@ -1,23 +1,33 @@
 class Solution {
 public:
-    int myAtoi(string s) {
-        int len = s.size();
-        double num = 0;
+    int myAtoi(string s) 
+    {
         int i=0;
-        while(s[i] == ' '){
+        int sign=1;
+        long ans=0;
+        while(i<s.length() && s[i]==' ')
+            i++;
+        if(s[i]=='-')
+        {
+            sign=-1;
             i++;
         }
-        bool positive = s[i] == '+';
-        bool negative = s[i] == '-';
-        positive == true ? i++ : i;
-        negative == true ? i++ : i;
-        while(i < len && s[i] >= '0' && s[i] <= '9'){
-            num = num*10 + (s[i]-'0');
+        else if(s[i]=='+')
             i++;
+        while(i<s.length())
+        {
+            if(s[i]>='0' && s[i]<='9')
+            {
+                ans=ans*10+(s[i]-'0');
+                if(ans>INT_MAX && sign==-1)
+                    return INT_MIN;
+                else if(ans>INT_MAX && sign==1)
+                    return INT_MAX;
+                i++;
+            }
+            else
+                return ans*sign;
         }
-        num = negative ? -num : num;
-        num = (num > INT_MAX) ? INT_MAX : num;
-        num = (num < INT_MIN) ? INT_MIN : num;
-        return int(num);
+        return (ans*sign);
     }
 };
