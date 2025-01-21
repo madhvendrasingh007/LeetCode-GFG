@@ -113,6 +113,7 @@
 | [0792-binary-search](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0792-binary-search) |
 | [0912-random-pick-with-weight](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0912-random-pick-with-weight) |
 | [0943-sum-of-subarray-minimums](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0943-sum-of-subarray-minimums) |
+| [1046-max-consecutive-ones-iii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/1046-max-consecutive-ones-iii) |
 | [2227-sum-of-subarray-ranges](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/2227-sum-of-subarray-ranges) |
 ## Binary Search
 |  |
@@ -125,6 +126,7 @@
 | [0287-find-the-duplicate-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0792-binary-search) |
 | [0912-random-pick-with-weight](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0912-random-pick-with-weight) |
+| [1046-max-consecutive-ones-iii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/1046-max-consecutive-ones-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -366,6 +368,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0239-sliding-window-maximum) |
+| [1046-max-consecutive-ones-iii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/1046-max-consecutive-ones-iii) |
 ## Tree
 |  |
 | ------- |
@@ -501,6 +504,7 @@
 |  |
 | ------- |
 | [0912-random-pick-with-weight](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0912-random-pick-with-weight) |
+| [1046-max-consecutive-ones-iii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/1046-max-consecutive-ones-iii) |
 ## Trie
 |  |
 | ------- |
