@@ -390,6 +390,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -444,6 +445,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Merge Sort
 |  |
@@ -490,6 +492,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0096-unique-binary-search-trees) |
+| [0783-search-in-a-binary-search-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0783-search-in-a-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
