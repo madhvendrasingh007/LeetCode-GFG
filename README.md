@@ -106,6 +106,7 @@
 | [0477-total-hamming-distance](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0477-total-hamming-distance) |
 | [0496-next-greater-element-i](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0503-next-greater-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0540-single-element-in-a-sorted-array) |
 | [0553-optimal-division](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0553-optimal-division) |
 | [0621-task-scheduler](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0628-maximum-product-of-three-numbers) |
@@ -124,6 +125,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0792-binary-search) |
 | [0912-random-pick-with-weight](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0912-random-pick-with-weight) |
 | [1046-max-consecutive-ones-iii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/1046-max-consecutive-ones-iii) |
