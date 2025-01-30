@@ -308,6 +308,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0171-excel-sheet-column-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
+| [0257-binary-tree-paths](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0290-word-pattern) |
 | [0336-palindrome-pairs](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0336-palindrome-pairs) |
 | [0345-reverse-vowels-of-a-string](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0345-reverse-vowels-of-a-string) |
@@ -390,6 +391,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0783-search-in-a-binary-search-tree) |
@@ -410,6 +412,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -445,6 +448,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0783-search-in-a-binary-search-tree) |
@@ -501,6 +505,7 @@
 | [0046-permutations](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0089-gray-code) |
+| [0257-binary-tree-paths](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0257-binary-tree-paths) |
 ## Combinatorics
 |  |
 | ------- |
