@@ -116,6 +116,7 @@
 | [0912-random-pick-with-weight](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0912-random-pick-with-weight) |
 | [0943-sum-of-subarray-minimums](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0943-sum-of-subarray-minimums) |
 | [1046-max-consecutive-ones-iii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/1046-max-consecutive-ones-iii) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2227-sum-of-subarray-ranges](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/2227-sum-of-subarray-ranges) |
 ## Binary Search
 |  |
