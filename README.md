@@ -274,6 +274,7 @@
 | [0503-next-greater-element-ii](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0943-sum-of-subarray-minimums) |
+| [1078-remove-outermost-parentheses](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/1078-remove-outermost-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/2227-sum-of-subarray-ranges) |
 ## Greedy
 |  |
@@ -318,6 +319,7 @@
 | [0402-remove-k-digits](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0412-fizz-buzz) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0423-reconstruct-original-digits-from-english) |
+| [1078-remove-outermost-parentheses](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/1078-remove-outermost-parentheses) |
 ## Matrix
 |  |
 | ------- |
