@@ -226,6 +226,7 @@
 | [0593-valid-square](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-random-pick-with-weight](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0912-random-pick-with-weight) |
+| [2032-largest-odd-number-in-string](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/2032-largest-odd-number-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -288,6 +289,7 @@
 | [0402-remove-k-digits](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0621-task-scheduler) |
+| [2032-largest-odd-number-in-string](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
@@ -322,6 +324,7 @@
 | [0412-fizz-buzz](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0412-fizz-buzz) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/0423-reconstruct-original-digits-from-english) |
 | [1078-remove-outermost-parentheses](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/madhvendrasingh007/LeetCode-GFG/tree/master/2032-largest-odd-number-in-string) |
 ## Matrix
 |  |
 | ------- |
